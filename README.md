@@ -18,7 +18,7 @@ For the development of this game, I used the Python programming language, specif
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+
 * Add a volume control feature (allows players to adjust the volume of sound effects and background music)
 * Improve collision detection (refine the collision system to be more precise)
 * Add multiple levels (introduce different difficulty levels by increasing the speed of obstacles or varying the gap sizes)
