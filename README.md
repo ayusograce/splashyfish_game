@@ -7,6 +7,7 @@ This is a Flappy Bird-inspired game that I created as part of my journey to lear
 # Development Environment
 
 For the development of this game, I used the Python programming language, specifically version 3.12. The game was built using the Arcade library. I developed the game in Visual Studio Code, which served as my primary code editor. Additionally, I utilized standard Python libraries such as math for mathematical operations, os for file handling, and random for generating random values.
+(To run the program locally, you can type "py -3.12 window.py" in the console with the open file)
 
 # Useful Websites
 
